@@ -1,5 +1,5 @@
 /* 
-// DOM SELECTORS
+## DOM SELECTORS
 getElementsByTagName
 getElementsByClassName
 getElementById
@@ -20,7 +20,7 @@ classList.add
 classList.remove
 classList.toggle
 
-BONUS 
+## BONUS 
 
 inerHTML      // DANGEROUS
 
